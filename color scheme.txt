@@ -1,0 +1,5 @@
+#EDC7B7 boja kože
+#EEE2DC krem
+#BAB2B5 siva
+#123C69 tamnoplava
+#AC3B61 tamnoroza
